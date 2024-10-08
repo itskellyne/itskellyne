@@ -1,5 +1,5 @@
 <h1 align="left">Hi! My name is Kellyne!👋</h1>
-<p> Software engineering graduate of The Marcy Lab School & Software engineering intern @ Gemini</p>
+<p> Software engineering graduate of The Marcy Lab School & Summer 2024 Software engineering intern @ Gemini</p>
 📫 Here is my email: kellyne.stephens@gmail.com
 
 📄 Here is my resume: [Kellyne's Resume](https://docs.google.com/document/d/1KYDxVXYqB52vNBmrGwhJyJ0UUcjtw9fqHAJx-alS6fA/edit?usp=sharing)
