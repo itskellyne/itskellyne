@@ -2,7 +2,7 @@
 <p> Software engineering graduate of The Marcy Lab School & Summer 2024 Software engineering intern @ Gemini</p>
 📫 Here is my email: kellyne.stephens@gmail.com
 
-📄 Here is my resume: [Kellyne's Resume](https://docs.google.com/document/d/1KYDxVXYqB52vNBmrGwhJyJ0UUcjtw9fqHAJx-alS6fA/edit?usp=sharing)
+📄 Here is my resume: [Kellyne's Resume](https://docs.google.com/document/d/1df-UhrAi92KTlNyRAjfUpIcvwVLyWJ7p5WmEzGUtdSw/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
